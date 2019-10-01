@@ -1,0 +1,11 @@
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.deps.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.runtimeconfig.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.runtimeconfig.dev.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.dll
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.pdb
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.csprojAssemblyReference.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.csproj.CoreCompileInputs.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.AssemblyInfoInputs.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.AssemblyInfo.cs
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.dll
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.pdb
